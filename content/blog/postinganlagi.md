@@ -2,7 +2,10 @@
 title: pIni postingan yang lebih baru lagi .
 description: This is a post on My Blog about win-win survival strategies.
 date: 2024-12-03
-tags: ["second tag", "posts with two tags"]
+tags:
+    - second tag
+    - posts with two tags
+preview: /media/vista.jpg
 ---
 
 ## Lorem ipsum odor amet, 
