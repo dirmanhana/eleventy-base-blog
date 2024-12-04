@@ -1,9 +1,7 @@
----js
-const eleventyNavigation = {
-	key: "About",
-	order: 3
-};
 ---
+title: tentang
+---
+
 # About
 
-I am a person that writes stuff.
+ini adalah isi tentang saya
